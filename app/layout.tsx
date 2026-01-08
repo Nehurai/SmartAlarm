@@ -15,6 +15,8 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Rimix - Reminders App",
   description: "A smart reminder app to organize your tasks and boost productivity.Set, manage, and get reminded with ease.",
+  manifest: '/manifest.json',
+
 };
 
 export default function RootLayout({
