@@ -29,7 +29,7 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts",
-    "types/**/*.d.ts"
-, "app/api/reminders/[id]/api.js", "lib/speech.js", "app/_components/dashboard/personalized_suggestion.jsx", "app/_components/dashboard/dashboard-graph.jsx"  ],
+    "types/**/*.d.ts",
+    "app/api/reminders/[id]/api.js", "lib/speech.js", "app/_components/dashboard/personalized_suggestion.jsx", "app/_components/dashboard/dashboard-graph.jsx"  ],
   "exclude": ["node_modules"]
 }
