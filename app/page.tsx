@@ -1114,16 +1114,6 @@ const RimixApp = () => {
       {/* Footer */}
       <footer className={`text-center py-12 ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
         <div className="max-w-7xl mx-auto px-6">
-          <p className="text-lg mb-2">Made with ❤️ by Aashish</p>
-          <a 
-            href="https://www.linkedin.com" 
-            target="_blank" 
-            rel="noopener noreferrer"
-            className="text-amber-500 hover:text-amber-400 font-medium inline-flex items-center space-x-2 mt-2 transition-all duration-300 hover:scale-105"
-          >
-            <span>Connect on LinkedIn</span>
-            <Sparkles size={16} />
-          </a>
         </div>
       </footer>
     </div>

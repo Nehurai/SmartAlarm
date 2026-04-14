@@ -8,7 +8,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[Demo](https://rimix.vercel.app) · [Report Bug](https://github.com/AashishKumarSingh1/Rimix/issues) · [Request Feature](https://github.com/AashishKumarSingh1/Rimix/issues)
+[Demo](https://rimix.vercel.app) · [Report Bug](https://github.com/Nehurai/SmartAlarm/issues) · [Request Feature](https://github.com/Nehurai/SmartAlarm/issues)
 
 ## ✨ What is Rimix?
 
@@ -98,7 +98,7 @@ npm --version
 
 1. Clone the repository
 ```bash
-git clone https://github.com/AashishKumarSingh1/Rimix.git
+git clone https://github.com/Nehurai/SmartAlarm.git
 cd rimix
 ```
 
@@ -168,12 +168,3 @@ We love contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for 
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-##
-<div align="center">
-
-Made with ❤️ by [Aashish Kumar Singh](https://aashish-eight.vercel.app/)
-
-If you found this project helpful, please give it a ⭐️!
-
-</div>

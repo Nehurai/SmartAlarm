@@ -274,7 +274,7 @@ Each route validates data, interacts with MongoDB, and returns JSON responses.
 ### 7.2 Installation
 
 ```bash
-git clone https://github.com/AashishKumarSingh1/Rimix.git
+git clone https://github.com/Nehurai/SmartAlarm.git
 cd rimix
 npm install
 ```
